@@ -4,7 +4,7 @@
       <div class="mr-6">任务信息</div>
       <div class="btn btn-accent" @click="onCreateClick">新建任务</div>
     </div>
-    <div class="h-[27rem] rounded-xl overflow-auto">
+    <div class="h-[32rem] rounded-xl overflow-auto">
       <JobList :jobs="jobs" />
     </div>
   </div>
