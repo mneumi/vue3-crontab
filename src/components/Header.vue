@@ -18,7 +18,9 @@ const handleGithubClick = () => {
   window.open("https://github.com/mneumi/etcd-crontab")
 }
 const handleDescClick = () => {
-  window.open("https://blog.mneumi.cn/docs/个人项目/etcd-crontab/介绍")
+  window.open(
+    "https://blog.mneumi.cn/docs/%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE/etcd-crontab/%E4%BB%8B%E7%BB%8D"
+  )
 }
 </script>
 
