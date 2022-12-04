@@ -11,7 +11,7 @@
           {{ cancelText ?? "取消" }}
         </div>
         <div class="btn btn-accent" @click="onConfirm">
-          {{ confirmText ?? "好的" }}
+          {{ confirmText ?? "关闭" }}
         </div>
       </div>
     </div>
